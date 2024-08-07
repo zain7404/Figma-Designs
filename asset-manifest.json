@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Figma-Designs/static/css/main.558d9c73.css",
+    "main.js": "/Figma-Designs/static/js/main.aa102f94.js",
+    "static/js/453.0002a9a1.chunk.js": "/Figma-Designs/static/js/453.0002a9a1.chunk.js",
+    "static/media/Rectangle 5 (1).png": "/Figma-Designs/static/media/Rectangle 5 (1).a4316ca6497f16441a2a.png",
+    "static/media/Group 43.png": "/Figma-Designs/static/media/Group 43.e8bd32a6e1106ed50a77.png",
+    "static/media/Group 109.png": "/Figma-Designs/static/media/Group 109.0dd3a33452b229c00541.png",
+    "static/media/Group 51.png": "/Figma-Designs/static/media/Group 51.0f50387242520b085ad6.png",
+    "static/media/Ellipse 1.png": "/Figma-Designs/static/media/Ellipse 1.6762c2b2cf1f7bbf24d3.png",
+    "static/media/clock.png": "/Figma-Designs/static/media/clock.552197581bca6795ac60.png",
+    "static/media/slick.svg": "/Figma-Designs/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Figma-Designs/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Figma-Designs/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Figma-Designs/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Figma-Designs/index.html",
+    "main.558d9c73.css.map": "/Figma-Designs/static/css/main.558d9c73.css.map",
+    "main.aa102f94.js.map": "/Figma-Designs/static/js/main.aa102f94.js.map",
+    "453.0002a9a1.chunk.js.map": "/Figma-Designs/static/js/453.0002a9a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.558d9c73.css",
+    "static/js/main.aa102f94.js"
+  ]
+}
